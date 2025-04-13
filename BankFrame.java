@@ -58,7 +58,7 @@ public class BankFrame extends JFrame implements ActionListener{
 		positionConst.gridx = 0;
 		positionConst.gridy = 0;
 		
-		// 10 pixels of padding around component (top, left, bottom, right)
+		// 10 pixels of padding around component (top, right, bottom, left)
 		positionConst.insets = new Insets(10, 10, 10, 10);
 				
 		// Add component using the specified constraints
